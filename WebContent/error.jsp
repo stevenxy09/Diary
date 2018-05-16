@@ -14,7 +14,7 @@
         timer = window.setInterval(showSecondes,1000);
     }
 
-    
+    //测试
     var i = 5;
     function showSecondes() {
         if (i > 0) {
